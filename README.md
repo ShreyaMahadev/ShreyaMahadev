@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 ### 👩‍💻 Frontend
 <p>
@@ -80,19 +80,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyam&theme=onedark&column=7&margin-w=10" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
-- 💼 [Portfolio](https://shreyam-portfolio.com)
+- 💼 [Portfolio](https://portfolio-website-liard-psi.vercel.app/)
 - 💬 [LinkedIn](https://www.linkedin.com/in/shreya-m)
-- 📧 [Email](mailto:shreyam@example.com)
+- 📧 [Email](mailto:shreyamahadev100@gmail.com)
 
 ---
 
