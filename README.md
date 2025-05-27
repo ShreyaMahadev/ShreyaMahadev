@@ -1,26 +1,25 @@
 # Hi there, I'm Shreya M 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7A3FF7&center=true&vCenter=true&width=500&lines=Information+Science+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7A3FF7&center=true&vCenter=true&width=500&lines=Information+Science+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </div>
 
----
 
-### 🎓 About Me
+# 🎓 About Me
 
-```diff
-+ 🎓 Third year Information Science and Engineering student at DSCE, Bangalore
-! 💡 Passionate about full-stack development, ML, and AI
-# 📚 Currently exploring TypeScript, Docker, and DevOps tools
-```
 
----
+### 🎓 Third year Information Science and Engineering student at DSCE, Bangalore
+### 💡 Passionate about full-stack development, ML, and AI
+### 📚 Currently exploring MachineLearning, Docker, and DevOps tools
 
-### 🛠️ My Tech Stack
+
+
+
+# 🛠️ My Tech Stack
 
 ### 👩‍💻 Frontend
 <p>
@@ -62,31 +61,24 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🚀 Currently Exploring
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
 
----
 
-## 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyam&show_icons=true&theme=tokyonight&hide_border=false" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyam&theme=tokyonight&hide_border=false" width="45%"/>
-</div>
-
----
+</div> -->
 
 
 
-## 📫 Let's Connect
 
-- 💼 [Portfolio](https://portfolio-website-liard-psi.vercel.app/)
-- 💬 [LinkedIn](https://www.linkedin.com/in/shreya-m-66681525a/)
-- 📧 [Email](mailto:shreyamahadev100@gmail.com)
+
+# 📫 Let's Connect
+
+ 💼 [Portfolio](https://portfolio-website-liard-psi.vercel.app/) <br>
+ 💬 [LinkedIn](https://www.linkedin.com/in/shreya-m-66681525a/)<br>
+ 📧 [Email](mailto:shreyamahadev100@gmail.com)<br>
 
 ---
 
