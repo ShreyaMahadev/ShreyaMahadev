@@ -85,7 +85,7 @@
 ## 📫 Let's Connect
 
 - 💼 [Portfolio](https://portfolio-website-liard-psi.vercel.app/)
-- 💬 [LinkedIn](https://www.linkedin.com/in/shreya-m)
+- 💬 [LinkedIn](https://www.linkedin.com/in/shreya-m-66681525a/)
 - 📧 [Email](mailto:shreyamahadev100@gmail.com)
 
 ---
