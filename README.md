@@ -76,9 +76,11 @@
 
 # 📫 Let's Connect
 
- 💼 [Portfolio](https://portfolio-website-liard-psi.vercel.app/) <br>
- 💬 [LinkedIn](https://www.linkedin.com/in/shreya-m-66681525a/)<br>
- 📧 [Email](mailto:shreyamahadev100@gmail.com)<br>
+<img src="https://cdn-icons-png.flaticon.com/24/1077/1077012.png" width="16" height="16" style="vertical-align:middle;"/> [Portfolio](https://portfolio-website-liard-psi.vercel.app/) <br>
+<img src="https://cdn-icons-png.flaticon.com/24/145/145807.png" width="16" height="16" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/shreya-m-66681525a/)<br>
+<img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" width="16" height="16" style="vertical-align:middle;"/> [Email](mailto:shreyamahadev100@gmail.com)<br>
+ <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="16" height="16" style="vertical-align:middle;"/> [Instagram](https://www.instagram.com/_shreya_mahadev_/) <br>
+
 
 ---
 
