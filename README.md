@@ -63,26 +63,20 @@
 
 
 
-<!--# 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyam&show_icons=true&theme=tokyonight&hide_border=false" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyam&theme=tokyonight&hide_border=false" width="45%"/>
-</div> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyamahadev&show_icons=true&locale=en" alt="shreyamahadev" /></p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahadev&" alt="shreyamahadev" /></p>
 
 
 # 📫 Let's Connect
 
-<img src="https://cdn-icons-png.flaticon.com/24/1077/1077012.png" width="16" height="16" style="vertical-align:middle;"/> [Portfolio](https://portfolio-website-liard-psi.vercel.app/) <br>
-<img src="https://cdn-icons-png.flaticon.com/24/145/145807.png" width="16" height="16" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/shreya-m-66681525a/)<br>
-<img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" width="16" height="16" style="vertical-align:middle;"/> [Email](mailto:shreyamahadev100@gmail.com)<br>
- <img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="16" height="16" style="vertical-align:middle;"/> [Instagram](https://www.instagram.com/_shreya_mahadev_/) <br>
-
-
----
+<p align="left">
+<a href="https://linkedin.com/in/shreya-m-66681525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-m-66681525a" height="30" width="40" /></a>
+<a href="https://instagram.com/_shreya_mahadev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shreya_mahadev_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreyamahadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyamahadev" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyam&label=Profile%20views&color=0e75b6&style=flat" alt="shreyam" />
