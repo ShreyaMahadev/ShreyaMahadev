@@ -76,10 +76,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyamahadev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahadev&theme=dark" alt="GitHub Streak" />
 </div>
-<br>
-
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -102,7 +101,6 @@
 </div>
 
 <br>
-
 <div align="center">
 
 <br>
