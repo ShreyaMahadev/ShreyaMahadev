@@ -78,6 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreyamahadev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahadev&theme=dark" alt="GitHub Streak" />
 </div>
+<br>
 
 <div align="center">
   <br>
