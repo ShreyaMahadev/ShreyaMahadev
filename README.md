@@ -99,9 +99,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" style="margin: 0 10px;" />
   </a>  
 
-  <a href="mailto:shreyamahadev100@gmail.com" target="blank">    
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="50" style="margin: 0 10px;" />  
-  </a> 
 </div>
 
 <br>
