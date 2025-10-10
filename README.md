@@ -8,7 +8,7 @@
 
 <br>
 
-<h1 style="border-bottom: none;">🎓 About Me</h1>
+<h1 style="border-bottom: none;">💁‍♀️ About Me</h1>
 <div align="left">
 <h3>🎓Final-year Information Science and Engineering student at Dayananda Sagar College of Engineering (DSCE), Bangalore. </h3>
 <h3>💡I'm a passionate MERN stack developer who loves creating full-stack web solutions using modern JavaScript technologies.</h3> 
