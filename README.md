@@ -94,9 +94,7 @@
   <a href="https://linkedin.com/in/shreya-m-66681525a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="margin: 0 10px;" />
   </a>
-  <a href="https://instagram.com/_shreya_mahadev_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" style="margin: 0 10px;" />
-  </a>
+
   <a href="https://www.leetcode.com/shreyamahadev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" style="margin: 0 10px;" />
   </a>  
