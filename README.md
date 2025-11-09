@@ -90,6 +90,26 @@
 
 <br>
 
+<h1 style="border-bottom: none;">🏅 Certifications</h1>
+
+<div align="left">
+
+  <ul>
+    <li><b>AWS Educate Machine Learning Foundations</b> — AWS Educate  
+    🔗 <a href="https://www.credly.com/badges/6d98c124-c51b-43f1-9a7c-dcee40afb8b5/linked_in_profile" target="_blank">View Certificate</a></li>
+    <li> <b>Postman API Fundamentals Student Expert</b> — Postman  
+    🔗 <a href="https://badgr.com/public/assertions/-UI0C07MTZuoTLD-7mVLBA?identity__email=shreyamahadev100%40gmail.com" target="_blank">View Certificate</a></li>
+    <li><b>Machine Learning for Engineering and Science Applications</b> — NPTEL, IIT Madras  
+    🔗 <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs49/Course/NPTEL25CS49S64220663804396322.pdf" target="_blank">View Certificate</a></li>
+    <li><b>Introduction to Python</b> — Scaler Academy  
+    🔗 <a href="https://moonshot.scaler.com/s/li/zYfXS5CiR5" target="_blank">View Certificate</a></li>
+  </ul>
+
+</div>
+
+
+
+
 <h1 style="border-bottom: none;">📫 Let's Connect</h1>
 
 <div align="center">
@@ -100,6 +120,11 @@
   <a href="https://www.leetcode.com/shreyamahadev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" style="margin: 0 10px;" />
   </a>  
+
+
+
+
+
 
 </div>
 
