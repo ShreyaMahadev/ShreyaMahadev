@@ -95,6 +95,8 @@
 <div align="left">
 
   <ul>
+    <li><b>React Basic Certification</b> — HackerRank  
+    🔗 <a href="https://www.hackerrank.com/certificates/iframe/54adddbb2f2a">View Certificate</a></li>
     <li><b>AWS Educate Machine Learning Foundations</b> — AWS Educate  
     🔗 <a href="https://www.credly.com/badges/6d98c124-c51b-43f1-9a7c-dcee40afb8b5/linked_in_profile" target="_blank">View Certificate</a></li>
     <li> <b>Postman API Fundamentals Student Expert</b> — Postman  
