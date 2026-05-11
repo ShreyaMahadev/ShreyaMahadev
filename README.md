@@ -99,6 +99,8 @@
 <div align="left">
 
   <ul>
+    <li><b>Advanced SQL</b> — Udemy  
+    🔗 <a href="https://www.udemy.com/certificate/UC-7faa2f0b-ae29-401a-9655-a758cbc1dbc8/">View Certificate</a></li>
     <li><b>React Basic Certification</b> — HackerRank  
     🔗 <a href="https://www.hackerrank.com/certificates/iframe/54adddbb2f2a">View Certificate</a></li>
     <li><b>AWS Educate Machine Learning Foundations</b> — AWS Educate  
@@ -113,36 +115,36 @@
 
 </div>
 
-
-
-
 <h1 style="border-bottom: none;">📫 Let's Connect</h1>
 
-<div align="center">
-  <a href="https://linkedin.com/in/shreya-m-66681525a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="40" width="50" style="margin: 0 10px;" />
-  </a>
-
-  <a href="https://www.leetcode.com/shreyamahadev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         height="40" width="50" style="margin: 0 10px;" />
-  </a>
-
-  <a href="https://github.com/ShreyaMahadev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         height="40" width="50" style="margin: 0 10px;" />
-  </a>
-
-  <a href="https://x.com/ShreyaMahadev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-         height="40" width="50" style="margin: 0 10px;" />
-  </a>
-</div>
-
-
-<br>
-<div align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 0 10px;">
+      <a href="https://www.linkedin.com/in/shreyamahadev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+             height="40" width="40" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="https://www.leetcode.com/shreyamahadev" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+             height="40" width="40" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="https://github.com/ShreyaMahadev" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+             height="40" width="40" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="https://x.com/ShreyaMahadev" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+             height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
