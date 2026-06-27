@@ -3,18 +3,24 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7A3FF7&center=true&vCenter=true&width=500&lines=Information+Science+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7A3FF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Machine+Learning+Enthusiast;Aspiring+Data+Scientist" alt="Typing SVG" />
 </div>
 
 <br>
 
 <h1 style="border-bottom: none;">💁‍♀️ About Me</h1>
 <div align="left">
-<h3>🎓Final-year Information Science and Engineering student at Dayananda Sagar College of Engineering (DSCE), Bangalore. </h3>
-<h3>💡I'm a passionate MERN stack developer who loves creating full-stack web solutions using modern JavaScript technologies.</h3> 
-<h3>📚Currently exploring DevOps and Cloud Technologies.</h3>
+<h3>🎓 Bachelor of Engineering (B.E.) Graduate in Information Science and Engineering from Dayananda Sagar College of Engineering (DSCE), Bangalore.</h3>
+<h3>🚀 Passionate about Data Science, Machine Learning, Generative AI, and Full-Stack Development, building intelligent applications and data-driven solutions.</h3>
+<h3>📚 Currently exploring Azure Data Factory (ADF).</h3>
 </div>
 
+<br>
+<h1 style="border-bottom: none;">💼 Experience</h1>
+<div align="left">
+<h3>🏢 IT Intern @ Johnson Controls • Jan 2026 – Jun 2026</h3>
+<h3>🏢 Software Development Intern @ MatreComm Technologies • Aug 2025 – Sept 2025</h3>
+</div>
 <br>
 
 <h1 style="border-bottom: none;">🛠️ My Tech Stack</h1>
