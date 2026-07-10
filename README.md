@@ -121,6 +121,16 @@
 
 </div>
 
+<h1 style="border-bottom: none;">✍️ Blogs</h1>
+<div align="left">
+  <ul>
+    <li>
+      <b>Snowflake Cortex Analyst vs Cortex Agents: Understanding the Future of Enterprise Analytics</b> —  
+      🔗 <a href="https://medium.com/@shreyamahadev100/snowflake-cortex-analyst-vs-cortex-agents-understanding-the-future-of-enterprise-analytics-e594e90038d6" target="_blank">Read Blog</a>
+    </li>
+  </ul>
+</div>
+
 <h1 style="border-bottom: none;">📫 Let's Connect</h1>
 
 <table align="center" style="border-collapse: collapse; border: none;">
@@ -149,6 +159,12 @@
              height="40" width="40" />
       </a>
     </td>
+    <td style="border: none; padding: 0 10px;">
+<a href="https://medium.com/@shreyamahadev100" target="_blank">
+<img src="https://cdn.simpleicons.org/medium/ffffff" width="40" height="40" />
+</a>
+    </td>
+
   </tr>
 </table>
 
