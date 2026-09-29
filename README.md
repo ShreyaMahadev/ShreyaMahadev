@@ -80,14 +80,13 @@
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 </p>
-
 </div>
 
 <br>
 
 <h1 style="border-bottom: none;">📊 GitHub Stats</h1>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyamahadev&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   <br><br>
@@ -101,10 +100,10 @@
 <br>
 
 <h1 style="border-bottom: none;">🏅 Certifications</h1>
-
 <div align="left">
-
   <ul>
+    <li><b>Azure DevOps</b> — Udemy  
+    🔗 <a href="https://www.udemy.com/certificate/UC-cb4b70ea-f4cd-4218-ac68-e5a25f000dac/">View Certificate</a></li>
     <li><b>Advanced SQL</b> — Udemy  
     🔗 <a href="https://www.udemy.com/certificate/UC-7faa2f0b-ae29-401a-9655-a758cbc1dbc8/">View Certificate</a></li>
     <li><b>React Basic Certification</b> — HackerRank  
@@ -118,7 +117,6 @@
     <li><b>Introduction to Python</b> — Scaler Academy  
     🔗 <a href="https://moonshot.scaler.com/s/li/zYfXS5CiR5" target="_blank">View Certificate</a></li>
   </ul>
-
 </div>
 
 <h1 style="border-bottom: none;">✍️ Blogs</h1>
@@ -132,7 +130,6 @@
 </div>
 
 <h1 style="border-bottom: none;">📫 Let's Connect</h1>
-
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; padding: 0 10px;">
@@ -164,7 +161,6 @@
 <img src="https://cdn.simpleicons.org/medium/ffffff" width="40" height="40" />
 </a>
     </td>
-
   </tr>
 </table>
 
